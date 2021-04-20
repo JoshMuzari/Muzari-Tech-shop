@@ -35,7 +35,7 @@
 
   <!--LOGIN-->
 
-
+ </div>
 
 </template>
 
